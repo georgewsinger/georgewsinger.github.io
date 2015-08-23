@@ -3,7 +3,7 @@ layout:     post
 title:      The Non-Trivial Problems List
 date:       2015-08-23 09:19:19
 summary:    A list of non-trivial problems to solve.
-categories: problems
+categories: problems george
 ---
 
 <!-- TOC depth:6 withLinks:1 updateOnSave:1 orderedList:0 -->
