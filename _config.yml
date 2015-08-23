@@ -4,7 +4,7 @@ email:       george.w.singer@example.com
 author:      George Singer
 description: "..."
 baseurl:     ""
-url:         "http:/georgewsinger.github.io" 
+url:         "http://georgewsinger.github.io" 
 date_format: "%b %-d, %Y"
 
 # Google analytics
