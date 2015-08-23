@@ -6,6 +6,50 @@ summary:    A list of non-trivial problems to solve.
 categories: problems
 ---
 
+<!-- TOC depth:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [1 How can *individuals* do *significantly more* each day? (10/10)](#1-how-can-individuals-do-significantly-more-each-day-1010)
+	- [1.1 We are confined to our desks and chairs while working. (10/10)](#11-we-are-confined-to-our-desks-and-chairs-while-working-1010)
+		- [1.1.1 Editing text (among other things) on a mobile device is slow and cumbersome. (10/10)](#111-editing-text-among-other-things-on-a-mobile-device-is-slow-and-cumbersome-1010)
+		- [1.1.2 Smartphones and computers don't adequately sync. (8/10)](#112-smartphones-and-computers-dont-adequately-sync-810)
+		- [1.1.3 Multi-tasking on smartphones is hard. (8/10)](#113-multi-tasking-on-smartphones-is-hard-810)
+		- [1.1.4 Changing between workspaces is slow and cumbersome. (6.5/10)](#114-changing-between-workspaces-is-slow-and-cumbersome-6510)
+	- [1.2 It is hard to stay aware of, manage, and plan for our fluctuating energy levels throughout the day. (8/10)](#12-it-is-hard-to-stay-aware-of-manage-and-plan-for-our-fluctuating-energy-levels-throughout-the-day-810)
+		- [1.2.1 We lack hard, personalized data on how certain activities impact our energy level. (8/10)](#121-we-lack-hard-personalized-data-on-how-certain-activities-impact-our-energy-level-810)
+		- [1.2.2 When planning, we lack awareness of how our energy levels will fluctuate. (8/10)](#122-when-planning-we-lack-awareness-of-how-our-energy-levels-will-fluctuate-810)
+	- [1.3 We don't learn *fast enough*. (9/10)](#13-we-dont-learn-fast-enough-910)
+		- [1.3.1 Reading dense content with our current tools is too hard. (9/10)](#131-reading-dense-content-with-our-current-tools-is-too-hard-910)
+		- [1.3.2 The selection of audiobooks (+audio content) is way too limited. (8/10)](#132-the-selection-of-audiobooks-audio-content-is-way-too-limited-810)
+	- [1.4 We can't write and communicate *fast (and clearly) enough*. (9/10)](#14-we-cant-write-and-communicate-fast-and-clearly-enough-910)
+		- [1.4.1 Writing is a difficult, painful process that frequently acts as a bottleneck for lots of communication and idea storage. (9/10)](#141-writing-is-a-difficult-painful-process-that-frequently-acts-as-a-bottleneck-for-lots-of-communication-and-idea-storage-910)
+		- [1.4.2 Ubiquitous capture is difficult. (7/10)](#142-ubiquitous-capture-is-difficult-710)
+	- [1.4.3 Email sucks. (7.5/10)](#143-email-sucks-7510)
+	- [1.5 Gaining access to high-quality knowledge and feedback is still too hard. (9/10)](#15-gaining-access-to-high-quality-knowledge-and-feedback-is-still-too-hard-910)
+		- [1.5.1 We have a systematic bias against giving and receiving feedback, and this causes us to waste years of our life on stupid ideas. (6.5/10)](#151-we-have-a-systematic-bias-against-giving-and-receiving-feedback-and-this-causes-us-to-waste-years-of-our-life-on-stupid-ideas-6510)
+		- [1.5.2 Getting access to high-quality information (via crowdsourcing) reliably and speedily is still challenging. (8.5/10)](#152-getting-access-to-high-quality-information-via-crowdsourcing-reliably-and-speedily-is-still-challenging-8510)
+		- [1.5.3 The process of crowdsourcing involves painful emailing, writing, and social lubricating. (8/10)](#153-the-process-of-crowdsourcing-involves-painful-emailing-writing-and-social-lubricating-810)
+		- [1.5.4 Knowing what the most up to date research says on any particular topic is unreasonably hard. (9/10)](#154-knowing-what-the-most-up-to-date-research-says-on-any-particular-topic-is-unreasonably-hard-910)
+		- [1.5.5 None of us *really know* how other people (i.e., employees, employers, job-seekers, ballers, and so forth) spend their time, yet this information would be very useful for a lot of different parties to know. (8/10)](#155-none-of-us-really-know-how-other-people-ie-employees-employers-job-seekers-ballers-and-so-forth-spend-their-time-yet-this-information-would-be-very-useful-for-a-lot-of-different-parties-to-know-810)
+	- [1.6 Body maintenance is time-consuming and requires long-term discipline. (6/10)](#16-body-maintenance-is-time-consuming-and-requires-long-term-discipline-610)
+		- [1.6.1 Sleeping/waking up is difficult. (6/10)](#161-sleepingwaking-up-is-difficult-610)
+		- [1.6.2 Staying on an exercise regimen is difficult. (5/10)](#162-staying-on-an-exercise-regimen-is-difficult-510)
+		- [1.6.3 Eating clean is difficult. (6/10)](#163-eating-clean-is-difficult-610)
+		- [1.6.4 Our postures suck. (6/10)](#164-our-postures-suck-610)
+		- [1.6.5 It is painful for people to acquire key health metrics. (7/10)](#165-it-is-painful-for-people-to-acquire-key-health-metrics-710)
+- [2 Assorted Social Problems. (7/10)](#2-assorted-social-problems-710)
+	- [2.1 We age, we lose our minds, and then die. (7.99/10)](#21-we-age-we-lose-our-minds-and-then-die-79910)
+	- [2.2 We need to colonize space. (7.99/10)](#22-we-need-to-colonize-space-79910)
+	- [2.3 Our neurology addicts us to irrational behavior. (7.99/10)](#23-our-neurology-addicts-us-to-irrational-behavior-79910)
+		- [2.3.1 Americans are too fat. (7.99/10)](#231-americans-are-too-fat-79910)
+	- [2.4 How can authors better monetize their content? (8/10)](#24-how-can-authors-better-monetize-their-content-810)
+	- [2.5 Our education system is horrible. (5/10)](#25-our-education-system-is-horrible-510)
+	- [2.6 People waste their lives playing video games. (5/10)](#26-people-waste-their-lives-playing-video-games-510)
+	- [2.7 Dealing with people sucks. (7/10)](#27-dealing-with-people-sucks-710)
+		- [2.7.1 Everybody should be able to work from home (if they want to). (8/10)](#271-everybody-should-be-able-to-work-from-home-if-they-want-to-810)
+	- [2.8 Click bait media is ruining our society (+people's lives). (5/10)](#28-click-bait-media-is-ruining-our-society-peoples-lives-510)
+	- [2.9 In America, women act like men, and men act like women. (7.99/10)](#29-in-america-women-act-like-men-and-men-act-like-women-79910)
+<!-- /TOC -->
+
 <!-- 10/10 -->
 # 1 How can *individuals* do *significantly more* each day? (10/10)
 
