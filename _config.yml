@@ -1,10 +1,10 @@
 # Site settings
 title:       Project Money
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+email:       george.w.singer@example.com
+author:      George Singer
+description: "..."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http:/georgewsinger.github.io" 
 date_format: "%b %-d, %Y"
 
 # Google analytics
@@ -35,7 +35,7 @@ flattr_button:
 
 # Post sharing icons
 show_sharing_icons: false
-share_text: 'Share this post!'
+share_text: 'Share this post.'
 # Change to 'true' to enable individual icons
 share_facebook: false
 share_twitter: false
