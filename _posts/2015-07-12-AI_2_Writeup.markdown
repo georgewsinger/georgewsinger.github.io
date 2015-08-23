@@ -221,7 +221,7 @@ Of course, this is a long-term dream. And I'm sure many big companies (i.e., Wol
 
 **Output:** "Sure, here is your function."
 
-```javascript
+```js
 var outputFunction = function (num1, num2) {
   var sum = num1 + num2;
     if (sum <= 0) {
@@ -236,7 +236,7 @@ var outputFunction = function (num1, num2) {
 
 **Output:** "Here you go."
 
-```javascript
+```js
 var outputFunction = function (first, second) {
   var sum = first + second;
     if (sum <= 0) {
