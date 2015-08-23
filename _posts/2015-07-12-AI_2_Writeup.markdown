@@ -1,11 +1,10 @@
 ---
 layout:     post
-title:      Title has a title.
+title:      Searching for an AI Toy
 date:       2014-06-08 11:22:29
-summary:    Summ1
+summary:    Rough gameplan to find an AI product.
 categories: jekyll pixyll
 ---
-
 
 # Searching for an AI Toy
 
@@ -224,7 +223,7 @@ Of course, this is a long-term dream. And I'm sure many big companies (i.e., Wol
 
 **Output:** "Sure, here is your function."
 
-```js
+```javascript
 var outputFunction = function (num1, num2) {
   var sum = num1 + num2;
     if (sum <= 0) {
@@ -239,7 +238,7 @@ var outputFunction = function (num1, num2) {
 
 **Output:** "Here you go."
 
-```js
+```javascript
 var outputFunction = function (first, second) {
   var sum = first + second;
     if (sum <= 0) {
