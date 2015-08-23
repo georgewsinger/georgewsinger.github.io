@@ -48,6 +48,7 @@ categories: problems
 		- [2.7.1 Everybody should be able to work from home (if they want to). (8/10)](#271-everybody-should-be-able-to-work-from-home-if-they-want-to-810)
 	- [2.8 Click bait media is ruining our society (+people's lives). (5/10)](#28-click-bait-media-is-ruining-our-society-peoples-lives-510)
 	- [2.9 In America, women act like men, and men act like women. (7.99/10)](#29-in-america-women-act-like-men-and-men-act-like-women-79910)
+
 <!-- /TOC -->
 
 <!-- 10/10 -->
