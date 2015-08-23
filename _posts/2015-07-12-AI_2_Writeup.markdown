@@ -6,8 +6,6 @@ summary:    Rough gameplan to find an AI product.
 categories: jekyll pixyll
 ---
 
-# Searching for an AI Toy
-
 The goal of this email is the following:
 
 1. Give you a feel for the typical AI repositories (in particular, highlighting how they are just implementations of specific AI algorithms).
