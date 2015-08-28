@@ -12,12 +12,17 @@ categories: reading web browser
 <img src="https://lh3.googleusercontent.com/OndtMfsya-XTG0_cnKq_35iYOQ8rDRw938l3ogHNh8E=s923-no" />
 </span>
 
+![Wikipedia ToC](https://lh3.googleusercontent.com/_DPwlwC_1HVYqBzp6ct1DRh4ZeBVSC_DiFELqaDC4eM=s969-no)
+![Wikipedia Still 1](https://lh3.googleusercontent.com/djoNyL791jP26Ff56AgP03vVIseU2cOh_thq09Fi9Jw=s969-no)
+![Wikipedia Still 2](https://lh3.googleusercontent.com/qwv-cUSJ_Mm6pBHDGmxauHZEa2arBr_w9GgvwTz80D4=s969-no)
+
 <!--<img src="https://lh3.googleusercontent.com/wLj_J8oyNfOB4g5NzDm7lsEAD4agm4NnJlKK_8r8L30=s923-no" width="800" height="800" /> -->
 <!-- ![ToC](http://mockuphone.com/upload/f71f2288ad8335716df735df66672eec/galaxys4b/galaxys4_black_portrait.png =500x500) -->
 
 <!-- ![Addition](https://lh3.googleusercontent.com/wLj_J8oyNfOB4g5NzDm7lsEAD4agm4NnJlKK_8r8L30=s923-no) -->
 
 <!-- ![Multiplication](https://lh3.googleusercontent.com/OndtMfsya-XTG0_cnKq_35iYOQ8rDRw938l3ogHNh8E=s923-no) -->
+
 
 <!--
 ![Still Read](https://lh3.googleusercontent.com/cXBK27MyBHM5w4cvzYugGhm3-lYAtQKqUcWcURYb-og=s923-no) -->
