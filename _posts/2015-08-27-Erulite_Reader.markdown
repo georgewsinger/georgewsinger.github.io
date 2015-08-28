@@ -1,18 +1,25 @@
 ---
 layout:     post
-title:      "Erulte Reader"
+title:      Erulite Web Browser
 date:       2015-08-27 20:13:00
 summary:    Creating an ad-free "flipboard" reader for the browser.
 categories: reading web browser
 ---
 
-![ToC](http://mockuphone.com/upload/f71f2288ad8335716df735df66672eec/galaxys4b/galaxys4_black_portrait.png)
+<span>
+<img src="https://lh3.googleusercontent.com/wLj_J8oyNfOB4g5NzDm7lsEAD4agm4NnJlKK_8r8L30=s923-no" width="500" height="500" />
+<img src="http://mockuphone.com/upload/f71f2288ad8335716df735df66672eec/galaxys4b/galaxys4_black_portrait.png" width="500" height="500" />
+<img src="https://lh3.googleusercontent.com/OndtMfsya-XTG0_cnKq_35iYOQ8rDRw938l3ogHNh8E=s923-no" width="500" height="500" />
+</span>
 
-![Addition](https://lh3.googleusercontent.com/wLj_J8oyNfOB4g5NzDm7lsEAD4agm4NnJlKK_8r8L30=s923-no)
+<!-- ![ToC](http://mockuphone.com/upload/f71f2288ad8335716df735df66672eec/galaxys4b/galaxys4_black_portrait.png =500x500) -->
 
-![Multiplication](https://lh3.googleusercontent.com/OndtMfsya-XTG0_cnKq_35iYOQ8rDRw938l3ogHNh8E=s923-no)
+<!-- ![Addition](https://lh3.googleusercontent.com/wLj_J8oyNfOB4g5NzDm7lsEAD4agm4NnJlKK_8r8L30=s923-no) -->
 
-<!-- ![Still Read](https://lh3.googleusercontent.com/cXBK27MyBHM5w4cvzYugGhm3-lYAtQKqUcWcURYb-og=s923-no) -->
+<!-- ![Multiplication](https://lh3.googleusercontent.com/OndtMfsya-XTG0_cnKq_35iYOQ8rDRw938l3ogHNh8E=s923-no) -->
+
+<!--
+![Still Read](https://lh3.googleusercontent.com/cXBK27MyBHM5w4cvzYugGhm3-lYAtQKqUcWcURYb-og=s923-no) -->
 
 <!-- ![Swipe Read](https://lh3.googleusercontent.com/c-wOZ7oNQfVmBENmhZWm2V6BrYo-t133vx-udfTaP4g=s923-no) -->
 
