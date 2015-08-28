@@ -24,15 +24,15 @@ categories: reading web browser
 
 <!-- ![Swipe Read](https://lh3.googleusercontent.com/c-wOZ7oNQfVmBENmhZWm2V6BrYo-t133vx-udfTaP4g=s923-no) -->
 
-# Erulite = Web-Browser + Kindle + Tinder
+## Erulite = Web-Browser + Kindle + Tinder
 
 *Erulite* is an idea for a web-browser that breaks online content into meaningful, bite-sized chunks for you to consume "one swipe at a time." It's meant to be especially useful for reading dense content on the go.
 
-  1. **The web-browser part.** _Erulite_ is a browser for any page on the web.
+  1. **The web-browser part.** Erulite is a browser for any page on the web.
 
-  2. **The Kindle part.** _Erulite_ gives you access to an automatically generated "Table of Contents" (useful for longer webpages with multiple headings). It also allows you to _make_ and _share_ annotations for each web page, just like on a kindle.
+  2. **The Kindle part.** Erulite gives you access to an automatically generated "Table of Contents" (useful for longer webpages with multiple headings). It also allows you to make and share annotations for each web page, just like on a kindle.
 
-  3. **The Tinder part.** _Erulite_ gives you a hyper-focused reading experience: "one swipe = one complete chunk of information". Crucially, sentences from one page never break off into the next page; with _Erulite_, you'll never have to "swipe back and forth" just to understand a concept. Everything stays clean.
+  3. **The Tinder part.** Erulite gives you a hyper-focused reading experience: "one swipe = one complete chunk of information". Crucially, sentences from one page never break off into the next page; with Erulite, you'll never have to "swipe back and forth" just to understand a concept. Everything stays clean.
 
   The browser also neatly separates code snippets and mathematical formulas into bite-sized chunks. You can adjust the size of these chunks in the settings menu to be (i) one sentence (or code snippet) per page, (ii) one paragraph per page, and (iii) automatic.
 
