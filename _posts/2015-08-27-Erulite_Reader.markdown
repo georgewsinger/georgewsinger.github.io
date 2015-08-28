@@ -16,11 +16,9 @@ categories: reading web browser
 
 <!-- ![Swipe Read](https://lh3.googleusercontent.com/c-wOZ7oNQfVmBENmhZWm2V6BrYo-t133vx-udfTaP4g=s923-no) -->
 
-# 1 What is it?
+# Erulite = Web-Browser + Kindle + Tinder
 
 *Erulite* is an idea for a web-browser that breaks online content into meaningful, bite-sized chunks for you to consume "one swipe at a time." It's meant to be especially useful for reading dense content on the go.
-
-### `Erulite = Web-Browser + Kindle + Tinder`
 
   1. **The web-browser part.** _Erulite_ is a browser for any page on the web.
 
