@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Project Unicorn
+title: About Project Erulite.
 permalink: /about/
 ---
 
-This page is generated via [this Jekyll theme](https://github.com/johnotander/pixyll). 
+Contact: george.w.singer@gmail.com.
